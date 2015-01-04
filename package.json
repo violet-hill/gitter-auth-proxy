@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Web proxy for gitter browser extentions",
   "main": "index.js",
-  "scripts": {
-    "start": "src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:violet-hill/gitter-auth-proxy.git"
@@ -22,5 +19,8 @@
   },
   "devDependencies": {
     "gulp": "^3.8.10"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
