@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/violet-hill/gitter-auth-proxy",
   "dependencies": {
-    "express": "^4.10.6"
+    "express": "^4.10.6",
+    "simple-oauth2": "^0.2.1"
   },
   "devDependencies": {
     "gulp": "^3.8.10"
